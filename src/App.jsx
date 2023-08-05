@@ -1,5 +1,5 @@
 import "./App.css";
-import TabelaJogos from "./TabelaJogos";
+import TabelaJogos from "./components/TabelaJogos";
 import Card from "./components/Card";
 
 function App() {
