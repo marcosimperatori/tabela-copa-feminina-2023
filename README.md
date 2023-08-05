@@ -1,6 +1,6 @@
 # Projeto sobre a copa do mundo feminina de 2023
 
-Tecnologia utilizada: REACT JS
+Tecnologia utilizada: React JS
 
 Neste projeto foram utilizados os hooks useState e UseEffect, além do CSS para estilização dos componentes funcionais. Utiliezei a estilização por componente.
 
