@@ -1,8 +1,11 @@
-# React + Vite
+# Projeto sobre a copa do mundo feminina de 2023
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tecnologia utilizada: REACT JS
 
-Currently, two official plugins are available:
+A página exibe a tabela de grupos e tabela de jogos, a partir de um API fake.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tabela de grupo
+![Tabela de grupos](/public/print/grupos.JPG)
+
+### Tabela de jogos
+![Tabela de jogos](/public/print/jogos.JPG)
