@@ -7,7 +7,7 @@ const TabelaJogos = () => {
   useEffect(() => {
     const buscarJogos = async () => {
       const response = await fetch(
-        "https://raw.githubusercontent.com/edsonmaia/apifakecopa2023/main/tabela-copa-feminina-2023.json"
+        "https://raw.githubusercontent.com/marcosimperatori/tabela-copa-feminina-2023/main/src/data/tabela_jogos.json"
       );
       const data = await response.json();
       setJogos(data);

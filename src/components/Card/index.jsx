@@ -7,7 +7,7 @@ const Card = () => {
   useEffect(() => {
     const buscarGrupos = async () => {
       const response = await fetch(
-        "https://raw.githubusercontent.com/edsonmaia/apifakecopa2023/main/selecoes.json"
+        "https://raw.githubusercontent.com/marcosimperatori/tabela-copa-feminina-2023/main/src/data/grupos_selecoes.json"
       );
       const data = await response.json();
       setGrupos(data);

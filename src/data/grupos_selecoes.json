@@ -1,7 +1,7 @@
 [
 	{
 		"grupo": "A",
-		"cor": "#2C5C6B",
+		"cor": "#78D64B",
 		"selecoes": [
 			{
 				"selecao": "Nova Zelândia",
@@ -27,7 +27,7 @@
 	},
 	{
 		"grupo": "B",
-		"cor": "#7DDFD2",
+		"cor": "#78D64B",
 		"selecoes": [
 			{
 				"selecao": "Austrália",
@@ -53,7 +53,7 @@
 	},
 	{
 		"grupo": "C",
-		"cor": "#ECB3CB",
+		"cor": "#78D64B",
 		"selecoes": [
 			{
 				"selecao": "Espanha",
@@ -79,7 +79,7 @@
 	},
 	{
 		"grupo": "D",
-		"cor": "#F22688",
+		"cor": "#78D64B",
 		"selecoes": [
 			{
 				"selecao": "Inglaterra",
