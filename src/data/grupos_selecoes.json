@@ -105,7 +105,7 @@
 	},
 	{
 		"grupo": "E",
-		"cor": "#00968D",
+		"cor": "#FFA02F",
 		"selecoes": [
 			{
 				"selecao": "Estados Unidos",
@@ -131,7 +131,7 @@
 	},
 	{
 		"grupo": "F",
-		"cor": "#78D64B",
+		"cor": "#FFA02F",
 		"selecoes": [
 			{
 				"selecao": "França",
@@ -183,7 +183,7 @@
 	},
 	{
 		"grupo": "H",
-		"cor": "#FE5211",
+		"cor": "#FFA02F",
 		"selecoes": [
 			{
 				"selecao": "Alemanha",
